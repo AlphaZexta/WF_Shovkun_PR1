@@ -21,5 +21,10 @@ namespace WF_Shovkun_PR1
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            button1.Text = "Guten Tag!";
+        }
     }
 }
